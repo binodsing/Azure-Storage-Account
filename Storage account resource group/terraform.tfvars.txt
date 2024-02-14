@@ -1,0 +1,5 @@
+storage_account_name  = "your_storage_account_name"
+resource_group_name   = "your_resource_group_name"
+location              = "your_location"
+account_tier          = "your_account_tier"
+account_replication   = "your_account_replication"
